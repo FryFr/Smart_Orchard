@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "939075945960",
+    "firebase_url": "https://smart-orchard-default-rtdb.firebaseio.com",
+    "project_id": "smart-orchard",
+    "storage_bucket": "smart-orchard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939075945960:android:f34a380491a1c797e5905d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.edriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939075945960-vkbthukl546hqd2jlm8ffa51u3ro9okq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0UwU85q2Yd_WpoKNptj8QJKSDhHYZl2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939075945960-vkbthukl546hqd2jlm8ffa51u3ro9okq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939075945960-4ag85lls04pd9efll3r5ihni8itehgom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.edriveapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,2 +1,7 @@
-# Smart_Orchard
-Huerto Inteligente con Flutter, Firebase y ESP32
+# Smart Orchard
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
